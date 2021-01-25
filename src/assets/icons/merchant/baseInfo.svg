@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>企业基础信</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.600000 0 0 0 0 0.600000 0 0 0 0 0.600000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1备份" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="4-1-商户资料" transform="translate(-26.000000, -174.000000)">
+            <g id="编组-10" transform="translate(0.000000, 90.000000)">
+                <g id="背景" transform="translate(0.000000, 10.000000)">
+                    <g id="企业基础信" transform="translate(27.000000, 75.000000)" filter="url(#filter-1)">
+                        <g>
+                            <polygon id="Stroke-1" stroke="#097DFF" points="9.449 15.08 0 15.08 0 3.77 9.75 7.22"></polygon>
+                            <polyline id="Stroke-3" stroke="#097DFF" points="6.4168 15.08 14.8498 15.08 14.8498 -4.26325641e-14 6.1488 1.82 6.2248 6.169"></polyline>
+                            <line x1="1.9696" y1="9.7705" x2="7.2256" y2="9.7705" id="Stroke-5" stroke="#097DFF"></line>
+                            <line x1="7.2254" y1="11.5224" x2="1.9694" y2="11.5224" id="Stroke-6" stroke="#097DFF"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

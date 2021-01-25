@@ -1,0 +1,67 @@
+// 全局变量
+
+// 头部宽度（默认自适应宽度，可固定宽度，固定宽度后为居中显示）
+$g-header-width: 100%;
+// 头部高度
+$g-header-height: 1rem;
+// 侧边栏宽度
+$g-main-sidebar-width: 1.67rem;
+$g-sub-sidebar-width: 4rem;
+$g-sidebar-width: var(--real-sidebar-width);
+// 侧边栏Logo高度
+$g-sidebar-logo-height: 0.4rem;
+// 顶部导航栏高度
+$g-topbar-height: 0.56rem;
+
+// 应用背景色
+$g-app-bg: #f1f3f4;
+// 主区域背景色
+$g-main-bg: #f1f3f4;
+
+// 头部背景色
+$g-header-bg: #fff;
+// 头部导航文字颜色
+$g-header-menu-color: #1a1a1a;
+// 头部导航选中颜色
+$g-header-menu-active-bg: darken($g-header-bg, 10);
+
+// 主侧边栏背景色
+$g-main-sidebar-bg: #0091ff;
+// 主侧边栏文字颜色
+$g-main-sidebar-menu-color: #fff;
+// 主侧边栏菜单选中背景色
+$g-main-sidebar-menu-active-bg: darken($g-main-sidebar-bg, 10);
+// 主侧导航文字+boder颜色
+$g-main-sidebar-menu-active-text-color: #2778fa;
+
+// 次侧边栏背景色
+$g-sub-sidebar-bg: #fff;
+// 次侧边栏hover背景色
+$g-sub-sidebar-bg-hover: #0091ff;
+// 次侧边栏菜单文字颜色
+$g-sub-sidebar-menu-color: #37414b;
+// 次侧边栏菜单文字选中颜色
+$g-sub-sidebar-menu-active-color: #e7f4ff;
+// 次侧边栏菜单选中背景色
+$g-sub-sidebar-menu-active-bg: #0091ff;
+
+// 输出给js使用
+:export {
+    g_main_sidebar_width: $g-main-sidebar-width;
+    g_sub_sidebar_width: $g-sub-sidebar-width;
+    g_sidebar_width: $g-main-sidebar-width + $g-sub-sidebar-width;
+    g_app_bg: $g-app-bg;
+    g_main_bg: $g-main-bg;
+    g_header_bg: $g-header-bg;
+    g_header_menu_color: $g-header-menu-color;
+    g_header_menu_active_bg: $g-header-menu-active-bg;
+    g_main_sidebar_bg: $g-main-sidebar-bg;
+    g_main_sidebar_menu_color: $g-main-sidebar-menu-color;
+    g_main_sidebar_menu_active_bg: $g-main-sidebar-menu-active-bg;
+    g_sub_sidebar_bg: $g-sub-sidebar-bg;
+    g_sub_sidebar_menu_color: $g-sub-sidebar-menu-color;
+    g_sub_sidebar_menu_active_color: $g-sub-sidebar-menu-active-color;
+    g_sub_sidebar_menu_active_bg: $g-sub-sidebar-menu-active-bg;
+    g_main_sidebar_menu_active_text_color: $g-main-sidebar-menu-active-text-color;
+    g_sub_sidebar_bg_hover: $g-sub-sidebar-bg-hover;
+}

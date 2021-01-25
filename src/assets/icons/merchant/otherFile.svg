@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="5px" viewBox="0 0 17 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>其他文件</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.600000 0 0 0 0 0.600000 0 0 0 0 0.600000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1备份" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="4-1-商户资料" transform="translate(-26.000000, -408.000000)">
+            <g id="编组-10" transform="translate(0.000000, 90.000000)">
+                <g id="背景" transform="translate(0.000000, 10.000000)">
+                    <g id="其他文件" transform="translate(27.000000, 75.000000)" filter="url(#filter-1)">
+                        <g transform="translate(0.000000, 234.000000)">
+                            <path d="M2.974,1.487 C2.974,2.308 2.308,2.973 1.487,2.973 C0.666,2.973 -1.47437618e-13,2.308 -1.47437618e-13,1.487 C-1.47437618e-13,0.666 0.666,-2.19824159e-14 1.487,-2.19824159e-14 C2.308,-2.19824159e-14 2.974,0.666 2.974,1.487 Z" id="Stroke-53" stroke="#097DFF"></path>
+                            <path d="M9.1068,1.487 C9.1068,2.308 8.4408,2.973 7.6198,2.973 C6.7988,2.973 6.1328,2.308 6.1328,1.487 C6.1328,0.666 6.7988,-2.19824159e-14 7.6198,-2.19824159e-14 C8.4408,-2.19824159e-14 9.1068,0.666 9.1068,1.487 Z" id="Stroke-55" stroke="#097DFF"></path>
+                            <path d="M15.2397,1.487 C15.2397,2.308 14.5737,2.973 13.7527,2.973 C12.9307,2.973 12.2657,2.308 12.2657,1.487 C12.2657,0.666 12.9307,-2.19824159e-14 13.7527,-2.19824159e-14 C14.5737,-2.19824159e-14 15.2397,0.666 15.2397,1.487 Z" id="Stroke-57" stroke="#097DFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
